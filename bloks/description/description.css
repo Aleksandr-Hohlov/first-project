@@ -1,0 +1,6 @@
+.description {
+  margin: 100px auto;
+  min-width: 784px;
+  display: flex;
+  justify-content: space-around;
+}
