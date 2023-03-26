@@ -1,3 +1,7 @@
+![Скрин проекта](./src/images/screencapture.pdf)
+
+---
+
 **[Проект: Как научиться учиться?](https://aleksandr-hohlov.github.io/first-project)**
 
 **Описание проекта:**
@@ -13,7 +17,7 @@
 
 ---
 
-**_[https://aleksandr-hohlov.github.io/mesto](https://aleksandr-hohlov.github.io/mesto/)_**
+**_https://aleksandr-hohlov.github.io/first-project_**
 
 ---
 
