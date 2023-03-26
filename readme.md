@@ -1,6 +1,3 @@
-![Скрин проекта](./src/images/screencapture.pdf)
-
----
 
 **[Проект: Как научиться учиться?](https://aleksandr-hohlov.github.io/first-project)**
 
