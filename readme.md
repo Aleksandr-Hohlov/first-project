@@ -1,28 +1,20 @@
-# Проект: Как научиться учиться?
-
-**Проектная работа №2.**
+**[Проект: Как научиться учиться?](https://aleksandr-hohlov.github.io/first-project)**
 
 **Описание проекта:**
 
-  * добавлены следующие блоки:
-    - techniques;
-    - video;
-    - oakley;
-    - khan;
-    - resources;
-  * обновлена файловая структура проекта, созданы блоки с вложенными
-    элементами и модификаотрами;
-  * при создании страницы использованы:
-    - iframe;
-    - анимации;
-    - трансформации;
-    - псевдокласс;
+- файловая структура реализована по БЭМ;
+- проект создан по макету Figma;
 
+Реализовано:
 
-    - iframe;
-    - анимации;
-    - трансформации;
+- iframe;
+- анимации;
+- трансформации;
 
-[https://aleksandr-hohlov.github.io/first-project](https://aleksandr-hohlov.github.io/first-project/)
+---
+
+**_[https://aleksandr-hohlov.github.io/mesto](https://aleksandr-hohlov.github.io/mesto/)_**
+
+---
 
 ![Скрин проекта](./images/screencapture.png)
