@@ -24,3 +24,5 @@
     - трансформации;
 
 [https://aleksandr-hohlov.github.io/first-project](https://aleksandr-hohlov.github.io/first-project/)
+
+![Скрин проекта](./src/images/screencapture.pdf)
