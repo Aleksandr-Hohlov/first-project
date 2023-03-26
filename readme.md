@@ -25,4 +25,4 @@
 
 [https://aleksandr-hohlov.github.io/first-project](https://aleksandr-hohlov.github.io/first-project/)
 
-![Скрин проекта](./images/screencapture.pdf)
+![Скрин проекта](./images/screencapture.png)
